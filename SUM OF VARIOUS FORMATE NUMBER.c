@@ -17,7 +17,7 @@ int main (){
 
     //INPUT THE INTEGER FORMATE NUMBER
     printf("PLEASE ENTER An INTEGER NUMBER: ");
-    scanf("%D",&num2);
+    scanf("%d",&num2);
 
     //INPUT THE DOUBLE FORMATE NUMBER
     printf("PLEASE ENTER A DOUBLE NUMBER: ");
